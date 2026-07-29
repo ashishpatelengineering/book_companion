@@ -18,6 +18,7 @@ bottom.
 **Content**:
 Read the chapter, understand the ideas, then teach them. Facts, numbers, and named
 examples/studies can and should be cited precisely. You don't have to copy word by word but follow the essence of the book.
+But you should follow the book strictly. 
 
 **Accuracy**: Before writing any slide content, actually read the source
 chapter (I'll upload it, or you can find the real text some other way).
