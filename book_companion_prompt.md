@@ -19,7 +19,6 @@ bottom.
 Read the chapter, understand the ideas, then teach them. Facts, numbers, and named
 examples/studies can and should be cited precisely. You don't have to copy word by word 
 and you are free to rephrase but follow the content and sequence of the book.
-But you should follow the book strictly. 
 
 **Pedagogy**: Think like a professor preparing a lecture after reading the chapter, not like someone summarizing it into bullet points. Teach the concepts in a sensible order, with clarity as the priority. The content should capture the essence that useful in real world, not just for the sake of it. But this does not mean you omit everything. Be balanced like an experienced professor.
 
