@@ -17,7 +17,8 @@ bottom.
 
 **Content**:
 Read the chapter, understand the ideas, then teach them. Facts, numbers, and named
-examples/studies can and should be cited precisely. You don't have to copy word by word but follow the essence of the book.
+examples/studies can and should be cited precisely. You don't have to copy word by word 
+and you are free to rephrase but follow the content and sequence of the book.
 But you should follow the book strictly. 
 
 **Pedagogy**: Think like a professor preparing a lecture after reading the
