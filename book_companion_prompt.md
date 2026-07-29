@@ -28,6 +28,8 @@ The content should be understandable and easy to follow. Be a great professor. Y
 
 **Accuracy**: Before writing any slide content, actually read the source chapter from the uploaded book. Every number, stat, and named example must trace back to something you actually read, not something you're inferring or rounding from memory. Flag clearly if you're illustrating a concept with your own example instead of the book's.
 
+**Quiz**: First you create content and then quiz should be based on the content of slides. 
+
 
 
 ## Format rules
