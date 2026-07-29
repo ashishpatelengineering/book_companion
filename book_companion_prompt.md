@@ -20,16 +20,19 @@ Read the chapter, understand the ideas, then teach them. Facts, numbers, and nam
 examples/studies can and should be cited precisely. You don't have to copy word by word but follow the essence of the book.
 But you should follow the book strictly. 
 
-**Accuracy**: Before writing any slide content, actually read the source
-chapter (I'll upload it, or you can find the real text some other way).
-Every number, stat, and named example must trace back to something you
-actually read, not something you're inferring or rounding from memory.
-Flag clearly if you're illustrating a concept with your own example instead
-of the book's.
-
 **Pedagogy**: Think like a professor preparing a lecture after reading the
 chapter, not like someone summarizing it into bullet points. Teach the
-concepts in a sensible order, with clarity as the priority.
+concepts in a sensible order, with clarity as the priority. 
+
+**Understanding**: 
+The content should be understandable and easy to follow. Be a great professor. 
+Your content should be absolutely understandable. Do not make it confusiong.
+
+**Accuracy**: Before writing any slide content, actually read the source
+chapter (I'll upload it).Every number, stat, and named example must trace back to something you actually read, not something you're inferring or rounding from memory.
+Flag clearly if you're illustrating a concept with your own example instead of the book's.
+
+
 
 ## Format rules
 
