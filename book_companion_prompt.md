@@ -15,11 +15,9 @@ bottom.
 
 ## Ground rules (non-negotiable)
 
-**Copyright**: Never copy or paraphrase-close the book's actual sentences.
-Read the chapter, understand the ideas, then teach them in your own words,
-your own structure, your own examples. Facts, numbers, and named
-examples/studies can and should be cited precisely, just not in the book's
-own phrasing.
+**Content**:
+Read the chapter, understand the ideas, then teach them. Facts, numbers, and named
+examples/studies can and should be cited precisely. You don't have to copy word by word but follow the essence of the book.
 
 **Accuracy**: Before writing any slide content, actually read the source
 chapter (I'll upload it, or you can find the real text some other way).
