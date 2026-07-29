@@ -1,6 +1,6 @@
 # Prompt: Build a Study Companion HTML for [BOOK TITLE]
 
-I want to learn from [BOOK TITLE] by [AUTHOR]. Please build me an interactive
+I want to learn from [BOOK TITLE]. Please build me an interactive
 HTML study companion, one chapter at a time, following all of these rules.
 
 **I'm attaching a working HTML template (`book_companion_template.html`)**
