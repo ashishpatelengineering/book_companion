@@ -27,7 +27,7 @@ concepts in a sensible order, with clarity as the priority.
 
 **Understanding**: 
 The content should be understandable and easy to follow. Be a great professor. 
-Your content should be absolutely understandable. Do not make it confusiong.
+Your content should be absolutely understandable. Do not make it confusing.
 
 **Accuracy**: Before writing any slide content, actually read the source
 chapter (I'll upload it).Every number, stat, and named example must trace back to something you actually read, not something you're inferring or rounding from memory.
