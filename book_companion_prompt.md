@@ -30,7 +30,7 @@ The content should be understandable and easy to follow. Be a great professor. Y
 
 **Quiz**: First you create content and then quiz should be based on the content of slides. 
 
-
+**NON-NEGOTIABLE**: Students should be able to follow the content. Clarity and understanding is MUST!
 
 ## Format rules
 
